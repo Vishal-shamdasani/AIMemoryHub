@@ -1,0 +1,7 @@
+{
+  "user": {
+    "name": "Vishal",
+    "access_level": "normal"
+  },
+  "instruction": "Say: 'Hello Yash, Vishal is currently busy.'"
+}
